@@ -1,18 +1,12 @@
-Hi, I'm Abhishek 👋
+## Hi, I'm Abhishek 👋
 
 Android & backend engineer building real-time systems with AI integration.  
 Focused on performance, system design, and production-ready architecture.
+
+Mumbai, India  
+abhi.official7058@gmail.com  
+
 [LinkedIn](https://www.linkedin.com/in/abhisheksharma-dev/)
-
----
-
-## Skills
-
-**Mobile:** Kotlin, Android  
-**Backend:** Spring Boot, REST APIs, WebSocket  
-**Real-Time:** WebRTC, event-driven systems  
-**AI/ML:** Python, NLP, Scikit-learn, YOLOv8  
-**Tools:** Docker, Firebase, Git  
 
 ---
 
@@ -43,6 +37,16 @@ Real-time image processing system using Python and FastAPI
 
 **Android Applications**  
 Built scalable apps using Kotlin with focus on clean architecture and performance  
+
+---
+
+## Skills
+
+**Mobile:** Kotlin, Android  
+**Backend:** Spring Boot, REST APIs, WebSocket  
+**Real-Time:** WebRTC, event-driven systems  
+**AI/ML:** Python, NLP, Scikit-learn, YOLOv8  
+**Tools:** Docker, Firebase, Git  
 
 ---
 
