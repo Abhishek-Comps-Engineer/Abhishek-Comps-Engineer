@@ -5,40 +5,25 @@ Focused on performance, system design, and production-ready architecture.
 
 Mumbai, India  
 abhi.official7058@gmail.com  
-
 [LinkedIn](https://www.linkedin.com/in/abhisheksharma-dev/)
-
----
 
 ## Work
 
 **Founder / Engineer — AI Clinical System**  
-Built a real-time doctor–patient consultation platform combining Android, backend systems, and AI.
-- Designed chat + video communication using WebSocket and WebRTC (<200ms latency)  
-- Developed NLP pipelines and ML models for symptom extraction and disease prediction (~85% accuracy)  
-- Built scalable backend services using Spring Boot and integrated Python-based AI modules  
-- Automated clinical summaries to improve consultation efficiency  
+- Built real-time doctor–patient platform (chat + video via WebSocket/WebRTC, <200ms latency)  
+- Developed NLP + ML models for symptom extraction and disease prediction (~85% accuracy)  
+- Designed scalable backend with Spring Boot and integrated Python AI services  
 
-**Software Engineering Intern**  
-Worked across backend and Android modules under mentorship.
-- Built REST APIs and contributed to feature development  
-- Debugged and improved existing systems in a real-world codebase  
-- Gained practical experience with Git workflows and API integration  
-
----
+**Software Engineering Intern — InfaYou Digital**  
+- Built REST APIs and contributed to backend and Android features  
+- Debugged and improved production codebases  
+- Worked with Git workflows and API integrations  
 
 ## Projects
 
-**AI Clinical System**  
-Real-time communication platform with AI-assisted diagnosis and structured clinical insights  
-
-**AI Inference Pipeline (YOLOv8)**  
-Real-time image processing system using Python and FastAPI  
-
-**Android Applications**  
-Built scalable apps using Kotlin with focus on clean architecture and performance  
-
----
+**AI Clinical System** — real-time consultation with AI-assisted diagnosis  
+**AI Inference Pipeline (YOLOv8)** — real-time image processing system  
+**Android Applications** — scalable apps with clean architecture  
 
 ## Skills
 
@@ -48,15 +33,9 @@ Built scalable apps using Kotlin with focus on clean architecture and performanc
 **AI/ML:** Python, NLP, Scikit-learn, YOLOv8  
 **Tools:** Docker, Firebase, Git  
 
----
+## Focus
 
-## Writing / Thinking
+Real-time systems · AI in production · scalable backend architecture  
 
-Exploring:
-- Real-time system design  
-- AI integration in production  
-- Scalable backend architecture  
 
----
-
-building, refining, and figuring things out.
+building systems and improving continuously
