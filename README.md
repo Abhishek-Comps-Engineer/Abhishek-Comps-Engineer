@@ -15,12 +15,14 @@ abhi.official7058@gmail.com
 - Designed scalable backend with Spring Boot and integrated Python AI services  
 - Reduced consultation preparation time by 60% through AI-generated insights and clinical summaries
 
+
 **Software Engineering Intern — InfaYou Digital**  
-• Created scalable Android features for Funtapp, supporting 1000+ users with smooth UI updates.
-• Implemented 10+ REST APIs using Retrofit and Coroutines, reducing latency by ~20%.
-• Collaborated with backend systems using Node.js, Firebase, and MongoDB for scalable API communication.
-• Improved app performance by ~25% through optimized state management and network handling.
-• Applied MVVM and clean architecture for modular, maintainable, and testable code.
+- Created scalable Android features for Funtapp, supporting 1000+ users with smooth UI updates.
+- Implemented 10+ REST APIs using Retrofit and Coroutines, reducing latency by ~20%.
+- Collaborated with backend systems using Node.js, Firebase, and MongoDB for scalable API communication.
+- Improved app performance by ~25% through optimized state management and network handling.
+- Applied MVVM and clean architecture for modular, maintainable, and testable code.
+
 
 **Freelancer - Backend Software Engineer**
 - Built REST APIs and contributed to Spring backend and website features
@@ -32,13 +34,14 @@ abhi.official7058@gmail.com
 
 ## Skills
 
-**Mobile:** Kotlin, Android  
-**Backend:** Spring Boot, REST APIs, WebSocket, FastAPI(Python)
-**Cloud:** Firebase, AWS
-**Real-Time:** WebRTC, event-driven systems  
-**AI/ML:** Python, NLP, Scikit-learn, YOLOv8  
-**Tools:** Docker, Firebase, Git  
+- **Mobile:** Kotlin, Android  
+- **Backend:** Spring Boot, REST APIs, WebSocket, FastAPI(Python)
+- **Real-Time:** WebRTC, event-driven systems
+- **Cloud:** Firebase, AWS
+- **AI/ML:** Python, NLP, Scikit-learn, YOLOv8
+- **Tools:** Docker, Firebase, Git
 
+  
 ## Focus
 
 Real-time systems · AI in production · scalable backend architecture  
