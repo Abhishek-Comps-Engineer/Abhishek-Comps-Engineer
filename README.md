@@ -30,7 +30,6 @@ abhi.official7058@gmail.com
 - Debugged and improved production codebases  
 - Worked with Git workflows and API development
   
-<br><br>
 ## Skills
 
 - **Mobile:** Kotlin, Android  
@@ -40,7 +39,6 @@ abhi.official7058@gmail.com
 - **AI/ML:** Python, NLP, Scikit-learn, YOLOv8
 - **Tools:** Docker, Firebase, Git
   
-  <br><br>
 ## Focus
 
 Real-time systems · AI in production · scalable backend architecture  
