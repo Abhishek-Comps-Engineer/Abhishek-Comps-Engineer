@@ -9,12 +9,12 @@ abhi.official7058@gmail.com
 
 ## Work
 
-**Founder / Engineer — AI Clinical System**  
+**Founder / Engineer — AI/ML Clinical Decision & Real-Time Consultation System**  
 - Built real-time doctor–patient platform (chat + video via WebSocket/WebRTC, <200ms latency)  
 - Developed NLP + ML models for symptom extraction and disease prediction (~85% accuracy)  
 - Designed scalable backend with Spring Boot and integrated Python AI services  
 - Reduced consultation preparation time by 60% through AI-generated insights and clinical summaries
-
+<br><br>
 
 **Software Engineering Intern — InfaYou Digital**  
 - Created scalable Android features for Funtapp, supporting 1000+ users with smooth UI updates.
@@ -22,16 +22,15 @@ abhi.official7058@gmail.com
 - Collaborated with backend systems using Node.js, Firebase, and MongoDB for scalable API communication.
 - Improved app performance by ~25% through optimized state management and network handling.
 - Applied MVVM and clean architecture for modular, maintainable, and testable code.
-
+<br><br>
 
 **Freelancer - Backend Software Engineer**
 - Built REST APIs and contributed to Spring backend and website features
 - 1000+ user can request service simultaneously from the Module-Interior website
 - Debugged and improved production codebases  
-- Worked with Git workflows and API development 
-
+- Worked with Git workflows and API development
   
-
+<br><br>
 ## Skills
 
 - **Mobile:** Kotlin, Android  
@@ -40,8 +39,8 @@ abhi.official7058@gmail.com
 - **Cloud:** Firebase, AWS
 - **AI/ML:** Python, NLP, Scikit-learn, YOLOv8
 - **Tools:** Docker, Firebase, Git
-
   
+  <br><br>
 ## Focus
 
 Real-time systems · AI in production · scalable backend architecture  
