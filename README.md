@@ -1,8 +1,8 @@
 ## Hi, I'm Abhishek 👋
 
-Software Engineer | Android Developer | Backend Engineer | AI/ML
+### Software Engineer | Android Developer | Backend Engineer | AI/ML
 
-Building scalable Android apps, distributed backend systems, and AI-powered applications.
+### Building scalable Android apps, distributed backend systems, and AI-powered applications.
 
 Mumbai, India  
 abhi.official7058@gmail.com  
@@ -10,7 +10,7 @@ abhi.official7058@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=Abhishek-Comps-Engineer&color=blue)
 
-## Tech Stack
+## Skills
 
 - **Mobile:** Android (Kotlin/Java)
 - **Backend:** Spring Boot, REST APIs, WebSocket, FastAPI(Python)
@@ -48,20 +48,6 @@ abhi.official7058@gmail.com
 - 1000+ user can request service simultaneously from the Module-Interior website
 - Debugged and improved production codebases  
 - Worked with Git workflows and API development
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Abhishek-Comps-Engineer&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Abhishek-Comps-Engineer&theme=tokyonight)
-
-## Currently Working On
-
-- AI-powered Clinical Decision Support System
-- Spring Boot Microservices
-- System Design
-- Android (Jetpack Compose)
-- Open Source Contributions
   
 ---
 I believe great software is simple, scalable, and solves real problems. I'm passionate about building production-ready systems that combine clean architecture, high performance, and practical AI.
