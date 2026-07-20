@@ -6,7 +6,7 @@
 
 Mumbai, India  
 abhi.official7058@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/abhisheksharma-dev/)
+[LinkedIn](https://www.linkedin.com/in/abhisheksharma-swe/)
 
 ![](https://komarev.com/ghpvc/?username=Abhishek-Comps-Engineer&color=blue)
 
