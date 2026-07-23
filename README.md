@@ -21,13 +21,13 @@ abhi.official7058@gmail.com
 
 ## Featured Projects
 
-**MediWise - AI/ML Clinical Decision & Real-Time Consultation System**  
+### [MediWise - AI/ML Clinical Decision & Real-Time Consultation System](https://github.com/Abhishek-Comps-Engineer/AI-ML-Clinical-Decision-and-Real-Time-Consultation-System)
 - Built real-time doctor–patient platform (chat + video via WebSocket/WebRTC, <200ms latency)  
 - Developed NLP + ML models for symptom extraction and disease prediction (~85% accuracy)  
 - Designed scalable backend with Spring Boot and integrated Python AI services  
 - Reduced consultation preparation time by 60% through AI-generated insights and clinical summaries.
 
-**SkyGrid - AI-Powered Drone Image Analysis Platform**
+### [SkyGrid - AI-Powered Drone Image Analysis Platform](https://github.com/Abhishek-Comps-Engineer/AI-Powered-Drone-Image-Analysis-System)
 - Developed an AI-powered platform for environmental monitoring and infrastructure analysis
 - Built Android and FastAPI applications for real-time drone image processing
 - Integrated YOLOv8-based object detection and segmentation models
@@ -35,7 +35,7 @@ abhi.official7058@gmail.com
 
 ## Experience
 
-**Software Engineering Intern — InfaYou Digital**  
+### [Software Engineering Intern — InfaYou Digital](https://www.linkedin.com/company/infayou-digital/posts/)
 - Created scalable Android features for Funtapp, supporting 1000+ users with smooth UI updates.
 - Implemented 10+ REST APIs using Retrofit and Coroutines, reducing latency by ~20%.
 - Collaborated with backend systems using Node.js, Firebase, and MongoDB for scalable API communication.
