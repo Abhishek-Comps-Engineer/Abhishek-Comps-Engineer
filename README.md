@@ -6,8 +6,7 @@
 
 Mumbai, India  
 abhi.official7058@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/abhisheksharma-swe/)
-
+### [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhisheksharma-swe)     [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/abhisheksharma-dev)
 ![](https://komarev.com/ghpvc/?username=Abhishek-Comps-Engineer&color=blue)
 
 ## Skills
