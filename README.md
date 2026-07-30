@@ -1,6 +1,6 @@
 ## Hi, I'm Abhishek 👋
 
-### Software Engineer | Android & Backend Developerend Engineer
+### Software Engineer | Android & Backend Developer
 
 ### Building scalable Android apps, distributed backend systems, and AI-powered applications.
 
