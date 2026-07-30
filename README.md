@@ -1,6 +1,6 @@
 ## Hi, I'm Abhishek 👋
 
-### Software Engineer | Android Developer | Backend Engineer | AI/ML
+### Software Engineer | Android & Backend Developerend Engineer
 
 ### Building scalable Android apps, distributed backend systems, and AI-powered applications.
 
@@ -11,12 +11,12 @@ abhi.official7058@gmail.com
 
 ## Skills
 
-- **Mobile:** Android (Kotlin/Java)
-- **Backend:** Spring Boot, REST APIs, WebSocket, FastAPI(Python)
-- **Real-Time:** WebRTC, event-driven systems
-- **Cloud:** Firebase, AWS
-- **AI/ML:** Python, NLP, Scikit-learn, YOLOv8
-- **Tools:** Docker, Firebase, Git
+- **Languages:** Java, Kotlin, SQL, Python
+- **Backend:** Spring Boot, REST APIs, JPA/Hibernate, PostgreSQL, Redis, FastAPI (Python)
+- **Android:** Kotlin, Jetpack Compose, MVVM, Room, Retrofit
+- **Databases:** PostgreSQL, MySQL, MongoDB, Firebase
+- **Tools:** Git, GitHub, Docker, Postman, Android Studio
+- **CS Fundamentals:** Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
 
 ## Featured Projects
 
