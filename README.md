@@ -11,12 +11,17 @@ abhi.official7058@gmail.com
 
 ## Skills
 
-- **Languages:** Java, Kotlin, SQL, Python
-- **Backend:** Spring Boot, REST APIs, JPA/Hibernate, PostgreSQL, Redis, FastAPI (Python)
-- **Android:** Kotlin, Jetpack Compose, MVVM, Room, Retrofit
-- **Databases:** PostgreSQL, MySQL, MongoDB, Firebase
-- **Tools:** Git, GitHub, Docker, Postman, Android Studio
-- **CS Fundamentals:** Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
+- **Android Development:** Kotlin, Java, Android SDK, Jetpack Compose, XML
+- **Architecture:** MVVM, Clean Architecture, Repository Pattern
+- **Backend & APIs:** REST APIs, Retrofit, Firebase, Spring Boot, FastAPI
+- **Concurrency & State:** Kotlin Coroutines, StateFlow
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Persistence:** Room, SQLite
+- **AI Integration:** TensorFlow Lite, On-Device AI
+- **UI & Design:** Material Design 3, Navigation Compose, Responsive UI
+- **Tools & Version Control:** Android Studio, Git, GitHub, Docker, Postman
+- **Quality & Performance:** Performance Optimization, Lifecycle-Aware Components, Clean Code Practices
+- **CS Fundamentals:** Data Structures & Algorithms, Object-Oriented Programming (OOP), DBMS, Operating Systems, Computer Networks
 
 ## Featured Projects
 
